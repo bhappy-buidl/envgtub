@@ -1,4 +1,4 @@
-#####high lvl overview of how app will work and what It aims to acomplish 1) go to a librairy>2) go to my single webapp landing page that insstructs instalation> 3) open my terminal on library machine>4) command a prompt tat installs a webappliscation(ex- "install brave" on comand line and that instalss brave browser onto the macins desktop)>
+
 # Application Downloader
 
 This command-line tool allows you to download popular applications like Brave Browser, Google Chrome, Telegram, WhatsApp, and others with a simple command.
@@ -16,4 +16,9 @@ To install the Application Downloader, follow these steps:
 
 To download an application, run the following command from the project directory:
 
-#####high lvl overview of how app will work and what It aims to acomplish 1) go to a librairy>2) go to my single webapp landing page that insstructs instalation> 3) open my terminal on library machine>4) command a prompt tat installs a webappliscation(ex- "install brave" on comand line and that instalss brave browser onto the macins desktop)>
+##### high lvl overview of how app will work and what It aims to acomplish 1) go to a librairy>2) go to my single webapp landing page that insstructs instalation> 3) open my terminal on library machine>4) command a prompt tat installs a webappliscation(ex- "install brave" on comand line and that instalss brave browser onto the macins desktop)>
+
+
+I want to be able to go to any machine and downlaod every app from one comand line
+
+
