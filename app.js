@@ -87,6 +87,5 @@ main();
 and it instals brave, tails instalation guide, openpgp
 othrs
 - install new-machine
-installs brave, vs, code, homebrew, npm,pip,discord,obs,xcode, telegram, session and more
-
+installs brave, vs, code, homebrew, npm,pip,discord,obs,xcode, telegram, session and mor
 */
