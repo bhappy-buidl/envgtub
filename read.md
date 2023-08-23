@@ -1,7 +1,7 @@
 # Origional intended use case
 This command-line tool is designed to simplify the process of downloading and installing popular applications that you might normally search for on the internet, such as web browsers, messaging apps, and privacy tools. However, the original inspiration for this tool was to make it easier to install a set of privacy-focused applications on a public computer.
 
-By using this tool, you can quickly and easily download and install popular privacy tools such as Brave, OpenPGP, Tor, and Tails. This can help to protect your privacy and security when using a public computer, without requiring you to manually search for and download each application yourself.
+By using this tool, you can quickly and easily download and install popular privacy tools such as Brave & OpenPGP This can help to protect your privacy and security when using a public computer, without requiring you to manually search for and download each application yourself.
 # Application Downloader
 Application Downloader is a command-line tool designed to simplify the process of downloading popular applications like Brave Browser, Google Chrome, Telegram, WhatsApp, and others. With just one command, you can download and install your favorite applications without having to go through the hassle of searching and downloading them individually.
 
